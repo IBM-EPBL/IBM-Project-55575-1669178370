@@ -1,6 +1,0 @@
-CR-     14 DEC 22
-ADHOC-  15 DEC
-ANTENNA-21 DEC
-C-      30 DEC
-ERTS-   3 JAN
-OPC-    5 JAN
