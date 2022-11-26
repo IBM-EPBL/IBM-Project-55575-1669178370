@@ -11,7 +11,7 @@
 | **Domain** | Artificial Intelligence |  
 | **Github ID** | IBM-EPBL/IBM-Project-55575-1669178370 |
 | **Team ID** |  PNT2022TMID25247 |  
-| **Batch Name** | B7-1A3E |
+| **Batch Name** | B2-2M4E |
 | **Team Size** | 4 | 
 | **Team Leader** | SRIDEVI S | 
 | **Team member** | pooja n |
