@@ -18,7 +18,7 @@
 | **Team member** | varunaa sree d |
 | **Team member** | stella mary s | 
 | **Degree** | Bachelor of Technology |
-| **Branch** | Information Technology |
+| **Branch** | Electronics and communication engineering|
 | **College** | jeppiaar institute of technology |
 
 ## 👩‍🏫 Mentor's Details
